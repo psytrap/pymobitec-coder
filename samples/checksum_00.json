@@ -1,0 +1,20 @@
+{
+    "address" : 6,
+    "node_type" : "TEXT_NODE",
+    "payload" : [
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 41
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 9
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00123456782"
+    ]
+}
+

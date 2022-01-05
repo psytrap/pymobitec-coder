@@ -1,0 +1,61 @@
+{
+    "address" : 6,
+    "node_type" : "TEXT_NODE",
+    "payload" : [
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 41
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 9
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00  00",
+
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 0
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_14PX"
+        },
+        "856",
+        
+        
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 33
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_7PX_BOLD"
+        },
+        "DEFFINGEN",
+
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 33
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 17
+        },
+        "GuNZBURG"
+    ]
+}
+
