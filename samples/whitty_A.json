@@ -1,0 +1,252 @@
+{
+    "address" : 6,
+    "node_type" : "TEXT_NODE",
+    "payload" : [
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2 
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        " 000 0",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00   ",
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2 
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 9
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "000000",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 9
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "000  ",
+		
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2 
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 10
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "000000",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 10
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "000  ",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 11
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "000000",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 11
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "000  ",
+
+		
+		        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 12
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        " 00000",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 12
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00   ",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "  0000",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "0    ",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 14
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "   000",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 14
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "     ",
+		
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 2
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 15
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "    0 ",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 15
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "     ",
+
+		
+		
+		
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 6
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_7PX_BOLD"
+        },
+        "WHITTY EXPRESS",
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 1
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 16
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_7PX_BOLD"
+        },
+        "   4ever Nonstop"
+
+    ]
+}
+

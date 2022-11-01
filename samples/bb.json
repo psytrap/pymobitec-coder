@@ -4,21 +4,6 @@
     "payload" : [
         {
             "command" : "HORIZONTAL_OFFSET",
-            "parameter" : 41
-        },
-        {
-            "command" : "VERTICAL_OFFSET",
-            "parameter" : 9
-        },
-        {
-            "command" : "FONT",
-            "parameter" : "PIXEL_BLOCK_5"
-        },
-        "00  00",
-
-
-        {
-            "command" : "HORIZONTAL_OFFSET",
             "parameter" : 0
         },
         {
@@ -29,7 +14,7 @@
             "command" : "FONT",
             "parameter" : "TEXT_14PX"
         },
-        "856",
+        "666",
         
         
         {
@@ -44,7 +29,7 @@
             "command" : "FONT",
             "parameter" : "TEXT_7PX_BOLD"
         },
-        "DEFFINGEN",
+        "BECKERS",
 
 
         {
@@ -55,7 +40,7 @@
             "command" : "VERTICAL_OFFSET",
             "parameter" : 17
         },
-        "GuNZBURG"
+        "BERGHAMMERS"
     ]
 }
 

@@ -14,7 +14,23 @@
             "command" : "FONT",
             "parameter" : "PIXEL_BLOCK_5"
         },
-        "00123456781"
+        "00  00",
+
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 0
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_13PX"
+        },
+        "ENDSTATION MuNZBERG"
+        
     ]
 }
 

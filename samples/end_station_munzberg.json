@@ -1,0 +1,133 @@
+{
+    "address" : 6,
+    "node_type" : "TEXT_NODE",
+    "payload" : [
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 52
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 9
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00  00",
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00    ",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 12
+			},
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00    ",
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 18
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00    ",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 18
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 12
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "PIXEL_BLOCK_5"
+        },
+        "00    ",
+
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 1
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_14PX"
+        },
+        "6",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 11
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        "8",
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 21
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 13
+        },
+        "22",
+        
+        
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 43
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 8
+        },
+        {
+            "command" : "FONT",
+            "parameter" : "TEXT_7PX_BOLD"
+        },
+        "Endstation",
+
+
+        {
+            "command" : "HORIZONTAL_OFFSET",
+            "parameter" : 43
+        },
+        {
+            "command" : "VERTICAL_OFFSET",
+            "parameter" : 17
+        },
+        "MuNZBERG"
+    ]
+}
+
